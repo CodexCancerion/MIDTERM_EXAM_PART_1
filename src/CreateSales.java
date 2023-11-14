@@ -69,6 +69,8 @@ public class CreateSales {
 
 
         System.out.println("Horayt");
+        System.out.println("Horayt");
+
 
     }
 }
