@@ -67,5 +67,8 @@ public class CreateSales {
             System.out.println(i.toString());
         }
 
+
+        System.out.println("Horayt");
+
     }
 }
